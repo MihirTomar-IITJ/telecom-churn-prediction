@@ -76,7 +76,7 @@ The project implements and compares **5 different classification algorithms**:
 | AdaBoost | 81.7% |
 | Random Forest | 80.8% |
 | XGBoost | 80.1% |
-| Logistic Regression | - |
+| Logistic Regression | 80.75% |
 
 ### Key Insights
 
